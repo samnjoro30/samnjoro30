@@ -64,5 +64,5 @@ Built with Django and MySQL for event ticketing and admin control.
 ## 📫 Let's Connect  
 - 📧 [samnjorokibandi@gmail.com](mailto:samnjorokibandi@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/samuel-njoroge-kibandi)  
-- 🌍 [Portfolio (Coming Soon)](#)
+- 🌍 [Portfolio](https://sam-tech-solution.web.app/)
 
