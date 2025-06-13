@@ -7,29 +7,24 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 ---
 
 ## 🛠️ Tech Stack
+## 🧰 Languages & Tools I Work With Most
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python, JavaScript, Java, C, C++</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>React.js, Node.js, Express.js, Django, FastAPI, Flask, Laravel</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MongoDB, MySQL, SQLite</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td>Google Cloud, Firebase, Docker, Render, GitHub Actions</td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Concepts</strong></td>
-    <td>REST APIs, JWT, CI/CD, Tailwind CSS, API Integration, Cybersecurity</td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 ---
 
@@ -42,13 +37,7 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 - 🧠 Passionate about **learning**, **problem-solving**, and **delivering clean code**
 
 ---
-## 🧰 Languages I Work With Most
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📊 GitHub Stats
 
