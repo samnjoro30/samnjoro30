@@ -1,41 +1,62 @@
-# 👋 Hi there, I'm Samuel Njoroge Kibandi
+# 👋 Hello, I'm Samuel Njoroge Kibandi
 
-🎓 IT Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast  
-📍 Nairobi, Kenya | 🌱 Open to Internship Opportunities
+🎓 *Information Technology Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast*
 
----
-
-I'm an Information Technology student at **The Cooperative University of Kenya**, passionate about solving real-world problems through software development, cloud engineering, and modern cybersecurity practices. I enjoy building scalable full-stack applications, automating deployment workflows, and securing systems using up-to-date techniques.
+I’m an aspiring software engineer currently pursuing my degree at **The Cooperative University of Kenya**. I specialize in building secure, scalable, and impactful digital solutions across web and cloud platforms. I’m deeply interested in applying modern development tools and cybersecurity practices to solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Python` `JavaScript` `Java` `C` `C++`
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, JavaScript, Java, C, C++</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>React.js, Node.js, Express.js, Django, FastAPI, Flask, Laravel</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>MongoDB, MySQL, SQLite</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>Google Cloud, Firebase, Docker, Render, GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Concepts</strong></td>
+    <td>REST APIs, JWT, CI/CD, Tailwind CSS, API Integration, Cybersecurity</td>
+  </tr>
+</table>
 
-**Frameworks & Libraries**  
-`React.js` `Node.js` `Express.js` `Django` `FastAPI` `Flask` `Laravel`
+---
 
-**Databases**  
-`MongoDB` `MySQL` `SQLite`
+## 🌟 Highlights & Strengths
 
-**Cloud & DevOps**  
-`Google Cloud` `Firebase` `Docker` `Render` `GitHub Actions`
-
-**Other Tools & Concepts**  
-`REST APIs` `Tailwind CSS` `JWT` `CI/CD` `API Integration` `Cybersecurity`
+- 🔒 Strong foundation in **cybersecurity** principles and secure API development
+- 🚀 Built and deployed **multiple full-stack applications** with authentication and payment systems
+- ☁️ Skilled in **cloud infrastructure** (GCP, Firebase) and **containerized deployments** with Docker
+- 🔁 Experience with **CI/CD pipelines** using GitHub Actions for automated testing and deployment
+- 🧠 Passionate about **learning**, **problem-solving**, and **delivering clean code**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnjoro30&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## 📫 Let's Connect
 
 - 📧 **Email:** [samnjorokibandi@gmail.com](mailto:samnjorokibandi@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/samuel-njoroge-kibandi](https://linkedin.com/in/samuel-njoroge-kibandi)  
 - 🌍 **Portfolio:** [sam-tech-solution.web.app](https://sam-tech-solution.web.app/)
+
+> _“Driven by curiosity. Focused on impact.”_
+
