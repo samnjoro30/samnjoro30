@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Samuel Njoroge Kibandi
 
-🎓 *Information Technology Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast*
+🎓 *Information Technology Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast | DevOps*
 
 I’m an aspiring software engineer currently pursuing my degree at **The Cooperative University of Kenya**. I specialize in building secure, scalable, and impactful digital solutions across web and cloud platforms. I’m deeply interested in applying modern development tools and cybersecurity practices to solve real-world problems.
 
@@ -43,7 +43,7 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnjoro30&layout=compact&theme=tokyonight" height="165" />
+ 
 </p>
 
 ---
