@@ -27,6 +27,11 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 
 
 ---
+## Tools
+![Supabase](https://supabase.com/)
+![render](https://render.com/)
+![AWS](https://aws.amazon.com/)
+![firebase](https://firebase.google.com/)
 
 ## 🌟 Highlights & Strengths
 
