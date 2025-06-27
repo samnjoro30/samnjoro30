@@ -62,6 +62,7 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" />
+  
  
 </p>
 
