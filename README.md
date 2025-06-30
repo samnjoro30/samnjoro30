@@ -65,11 +65,6 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
   
  
 </p>
-### My GitHub Activity
-<p align="center>
-   <img src="https://raw.githubusercontent.com/samnjoro30/samnjoro30/main/github-metrics.svg" alt="GitHub Metrics Graph" />
-
-</p>
 ---
 
 ## 📫 Let's Connect
