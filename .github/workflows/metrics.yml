@@ -1,7 +1,7 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 * * * *" }]  # updates every hour
+  #schedule: [{ cron: "0 * * * *" }]  # updates every hour
   push: { branches: ["main"] }
   workflow_dispatch:
 
