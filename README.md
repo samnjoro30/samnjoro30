@@ -69,10 +69,10 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 ---
 ---
 ## 📊 My GitHub Stats
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samnjoro30&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=samnjoro30&theme=default" height="185" />
+</p>
 
 ---
 
