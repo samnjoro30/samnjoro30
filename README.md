@@ -63,8 +63,17 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" />
   
+  
  
 </p>
+---
+---
+## 📊 My GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samnjoro30&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📫 Let's Connect
