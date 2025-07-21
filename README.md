@@ -51,7 +51,7 @@ I’m an aspiring software engineer currently pursuing my degree at **The Cooper
 
 - 🔒 Strong foundation in **cybersecurity** principles and secure API development
 - 🚀 Built and deployed **multiple full-stack applications** with authentication and payment systems
-- ☁️ Skilled in **cloud infrastructure** (GCP, Firebase) and **containerized deployments** with Docker
+- ☁️ Skilled in **cloud infrastructure** (GCP, Firebase, AWS) and **containerized deployments** with Docker
 - 🔁 Experience with **CI/CD pipelines** using GitHub Actions for automated testing and deployment
 - 🧠 Passionate about **learning**, **problem-solving**, and **delivering clean code**
 
