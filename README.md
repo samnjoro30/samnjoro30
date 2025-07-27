@@ -2,7 +2,7 @@
 
 🎓 *Information Technology Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast | DevOps*
 
-I’m an aspiring software engineer currently pursuing my degree at **The Cooperative University of Kenya**. I specialize in building secure, scalable, and impactful digital solutions across web and cloud platforms. I’m deeply interested in applying modern development tools and cybersecurity practices to solve real-world problems.
+I’m an aspiring DevOps, cloud and software engineer currently pursuing my degree at **The Cooperative University of Kenya**. I specialize in building secure, scalable, and impactful digital solutions across web and cloud platforms. I’m deeply interested in applying modern development tools and cybersecurity practices to solve real-world problems.
 
 ---
 
