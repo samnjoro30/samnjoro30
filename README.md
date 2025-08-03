@@ -61,7 +61,7 @@ I’m an aspiring DevOps, cloud and software engineer currently pursuing my degr
 ## 📊 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" />
   
   
  
