@@ -76,6 +76,11 @@ I’m an aspiring DevOps, cloud and software engineer currently pursuing my degr
 
 ---
 
+## 🧮 My GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/samnjoro30/samnjoro30/output/github-contribution-grid-snake.svg)
+
+
 ## 📫 Let's Connect
 
 - 📧 **Email:** [samnjorokibandi@gmail.com](mailto:samnjorokibandi@gmail.com)  
