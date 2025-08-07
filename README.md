@@ -77,10 +77,10 @@ I’m an aspiring DevOps, cloud and software engineer currently pursuing my degr
 ---
 
 ## 🧮 My GitHub Contribution Graph
-![GitHub Snake Dark](./github-contribution-grid-snake-dark.svg?palette=github-dark)
+<!--![GitHub Snake Dark](./github-contribution-grid-snake-dark.svg?palette=github-dark) -->
 
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/samnjoro30/samnjoro30/output/github-contribution-grid-snake.svg)
+<!--![GitHub Contribution Graph](https://raw.githubusercontent.com/samnjoro30/samnjoro30/output/github-contribution-grid-snake.svg)-->
 
 
 ## 📫 Let's Connect
