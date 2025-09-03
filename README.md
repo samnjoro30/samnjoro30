@@ -78,11 +78,6 @@ Currently working on DSA advanced mastering
 
 ---
 
-## 🧮 My GitHub Contribution Graph
-<!--![GitHub Snake Dark](./github-contribution-grid-snake-dark.svg?palette=github-dark) -->
-
-
-<!--![GitHub Contribution Graph](https://raw.githubusercontent.com/samnjoro30/samnjoro30/output/github-contribution-grid-snake.svg)-->
 
 
 ## 📫 Let's Connect
