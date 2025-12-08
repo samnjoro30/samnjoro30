@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Samuel Njoroge Kibandi
 
-🎓 *Information Technology Student | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast | DevOps*
+ Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | DevOps*
 
-I’m an aspiring DevOps, cloud and software engineer currently pursuing my degree at **The Cooperative University of Kenya**. I specialize in building secure, scalable, and impactful digital solutions across web and cloud platforms. I’m deeply interested in applying modern development tools and cybersecurity practices to solve real-world problems.
+I’m a passionate developer and emerging DevOps engineer focused on building secure, scalable, and impactful digital solutions.
+I enjoy merging cloud infrastructure, automation, and software engineering to solve real-world problems—especially in agriculture, AI, and emerging technologies.
 
-Currently working on DSA advanced mastering 
-
+Currently building: Smart Farm – an AI-powered Farm automation platform 🌱🤖
 ---
 
 ## 🛠️ Tech Stack
@@ -14,8 +14,6 @@ Currently working on DSA advanced mastering
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
