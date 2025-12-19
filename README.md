@@ -61,17 +61,14 @@ Currently building: Smart Farm – an AI-powered Farm automation platform 🌱�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight" height="165" />
-  
-  
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=samnjoro30&show_icons=true&theme=tokyonight&cache_seconds=1800" /> 
 </p>
 ---
 ---
 ## 📊 My GitHub Stats
 <p align="center">
 
- <img src="https://streak-stats.demolab.com/?user=samnjoro30&theme=tokyonight" height="185" />
+ <img src="https://streak-stats.demolab.com/?user=samnjoro30&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
