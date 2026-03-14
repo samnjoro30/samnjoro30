@@ -5,7 +5,9 @@
 I’m a passionate developer and emerging DevOps engineer focused on building secure, scalable, and impactful digital solutions.
 I enjoy merging cloud infrastructure, automation, and software engineering to solve real-world problems—especially in agriculture, AI, and emerging technologies.
 
-Currently building: Smart Farm – an AI-powered Farm automation platform 🌱🤖
+Currently building:
+  Smart Farm – an AI-powered Farm automation platform 🌱🤖
+  E-payment - Financial money tranfer and wallet platform              
 ---
 
 ## 🛠️ Tech Stack
