@@ -72,7 +72,7 @@ Currently building:
 
 - 📧 **Email:** [samnjorokibandi@gmail.com](mailto:samnjorokibandi@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/samuel-njoroge-kibandi](https://linkedin.com/in/samuel-njoroge-kibandi)  
-- 🌍 **Portfolio:** [sam-tech-solution.web.app](https://sam-tech-solution.web.app/)
+- 🌍 **Portfolio:** [samnjorokibandi.me](https://samnjorokibandi.me/) 
 
 > _“Driven by curiosity. Focused on impact.”_
 
